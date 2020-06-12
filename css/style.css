@@ -1,0 +1,132 @@
+/*RESET CSS*/
+*{
+	padding: 0;
+	margin: 0;
+}
+#menu ul{
+	list-style: none;
+	text-align: center;
+}
+#menu ul li{
+	display: inline-block;
+	width: 170px;
+	height: 80px;
+	line-height: 75px;
+	margin-left: -5px;
+	background: #ffffff
+}
+#menu a{
+	text-decoration: none;
+	color: black;
+	display: block; 
+}
+.hinh1{
+/*	background: red;*/
+	width: 1920px;
+	height: 1261px;
+	background-size: cover;
+	background-image: url(../image/mode1.jpg);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.hinh1 .text{
+/*	background: black;*/
+	width: 700px;
+	height: 200px;
+}
+.hinh1 .text p{
+	color: white;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top:10px;
+}
+.hinh2{
+/*	background: red;*/
+	width: 1920px;
+	height: 1261px;
+	background-size: cover;
+	background-image: url(../image/Kristen-Stewart-Chanel-SS20-04.jpg);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.hinh2 .text{
+/*	background: black;*/
+	width: 1000px;
+	height: 200px;
+	margin-top: 700px;
+	margin-left: 800px;
+}
+.hinh2 .text p{
+	color: white;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top:10px;
+}
+.hinh3{
+/*	background: red;*/
+	width: 1920px;
+	height: 2000px;
+	background-size: cover;
+	background-image: url(../image/mode2.png);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.hinh3 .text{
+/*	background: black;*/
+	width: 1000px;
+	height: 200px;
+	margin-top: 900px;
+	margin-left: 1100px;
+}
+.hinh3 .text p{
+	color: white;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top:10px;
+}
+.hinh4{
+/*	background: red;*/
+	width: 1920px;
+	height: 1092px;
+	background-size: cover;
+	background-image: url(../image/mode4.jpg);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.hinh4 .text{
+/*	background: black;*/
+	width: 900px;
+	height: 0px;
+	margin-top:700px
+}
+.hinh4 .text p{
+	color: white;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top:1px;
+}
+.hinh5{
+/*	background: red;*/
+	width: 1920px;
+	height: 1261px;
+	background-size: cover;
+	background-image: url(../image/mode5.jpg);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.hinh5 .text{
+/*	background: black;*/
+	width: 9200px;
+	height: 10px;
+}
+.hinh5 .text p{
+	color: white;
+	text-align: center;
+	margin-right: 1200px;
+	margin-top:320px;
+}
